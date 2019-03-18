@@ -5,7 +5,10 @@ Aplicacion de notas en node
 ```
 npm install
 ```
-
+Codigo para crear una nueva tarea
+```
+node app crear -d "Nombre de la tarea"
+```
 Codigo para listar las tareas
 ```
 node app listar
